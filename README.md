@@ -70,4 +70,4 @@ Contributions and suggestions are welcome! Please open an issue to discuss ideas
 This project is licensed under the terms outlined in the [`LICENSE`](LICENSE) file.
 
 ## Contact
-For questions or further discussions regarding this project, please contact [your email address or another preferred method of communication].
+For questions or further discussions regarding this project, please contact oriolnuez@outlook.es
