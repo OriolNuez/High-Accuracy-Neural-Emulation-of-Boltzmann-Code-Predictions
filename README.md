@@ -61,7 +61,7 @@ python scripts/train_emulator.py --config configs/high_accuracy_config.yaml
 ```
 
 ## Results
-Detailed results, figures, and performance comparisons from the conducted experiments are located in the [`results/`](results/) folder. For detailed interpretation, see the Jupyter notebooks provided in [`notebooks/`](notebooks/).
+Detailed results, figures, and performance comparisons from the conducted experiments are located in the [`results/`](results/) folder. 
 
 ## Contributions
 Contributions and suggestions are welcome! Please open an issue to discuss ideas or submit a pull request directly to enhance the project.
